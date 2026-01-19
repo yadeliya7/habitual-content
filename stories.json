@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "sentences": {
+    "sport": [
+      "Bugün antrenmanın hakkını verdim, vücudum bana teşekkür ediyor.",
+      "Limitlerimi zorladığım sağlam bir spor günüydü.",
+      "Spor yaparak zihnimi boşalttım, ter atarak yenilendim."
+    ],
+    "reading": [
+      "Kitapların büyülü dünyasında kısa bir yolculuğa çıktım.",
+      "Okuduğum satırlar bana yepyeni ufuklar açtı."
+    ]
+    // Diğer aktiviteleri buraya ekle...
+  }
+}
